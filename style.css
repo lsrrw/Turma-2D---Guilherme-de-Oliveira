@@ -1,0 +1,9 @@
+h1 {color: blue;}
+h2 {color: rgb(0, 17, 255);}
+h3 {color: black;}
+h1 {text-align: center;}
+h3 {text-align: right;}
+h1 {border-color: darkblue;
+    border-style: solid;
+    border-width: 5px;}
+h2{text-align: center;}
